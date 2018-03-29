@@ -3,3 +3,5 @@
   <a href="https://github.com/Nuinalp/planium-os/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-BSD-blue.svg" alt="License"/></a>
   <img src="https://img.shields.io/badge/Version-0.0.1-green.svg" alt="Version"/>
 </p>
+
+<h3 align="center">Plánium OS the operating system of Nuinalp</h3>
